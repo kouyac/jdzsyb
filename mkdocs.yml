@@ -1,5 +1,5 @@
 site_name: 机动车登记证书样本，制作大绿本所起的用途
-site_url: https://jdzsys.readthedocs.io/zh-tw/latest/
+site_url: https://jdzsys.readthedocs.io/zh-cn/latest/
 theme:
   name: material
   custom_dir: overrides
